@@ -1,3 +1,7 @@
+```
+git clone https://github.com/EloiStree/2026_06_15_upm_hexa_chess.git Packages/2026_06_15_upm_hexa_chess
+```
+
 # 2026_06_15_upm_hexa_chess
 
 Hexa Chess board.
