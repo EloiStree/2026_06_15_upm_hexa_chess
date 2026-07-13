@@ -20,6 +20,11 @@ namespace Eloi.HexaChess
             RefreshPosition();
         }
 
+        private void Awake()
+        {
+            RefreshPosition();
+        }
+
         private void RefreshPosition()
         {
             if (m_centerAnchor == null || m_whatToMoveAround == null)

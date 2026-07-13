@@ -1,5 +1,5 @@
 {
-    "name": "be.elab.hexachess.Runtime",
+    "name": "HexaChess",
     "rootNamespace": "Eloi.HexaChess",
     "references": [],
     "includePlatforms": [],
